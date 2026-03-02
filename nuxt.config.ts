@@ -14,6 +14,7 @@ export default defineNuxtConfig({
   nitro: {
     preset: 'static'
   },
+  ssr: false,
 
   modules: [
     '@nuxtjs/tailwindcss', 
