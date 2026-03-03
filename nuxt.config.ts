@@ -4,9 +4,10 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Your Social Brand',
+      title: 'Ange Baker Social Media ManagementSocial Media Manager for Small Businesses | Ange Baker',
       meta: [
-        { name: 'description', content: 'Your brand description here' }
+        { name: 'description', 
+          content: 'Helping small businesses and marketing consultants simplify social media with strategy, management and practical training that delivers results.' }
       ]
     }
   },

@@ -1,11 +1,11 @@
 <template>
     <!--footer -->
-   <footer class="bg-gray-200">
+   <footer class="bg-sky-900">
         <div class="px-4 py-12 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
           <div class="flex justify-center mt-8 space-x-6">
             <a 
-              href="" 
-              class="text-gray-500 hover:text-gray-700"
+              href="https://www.facebook.com/angebakersocialmedia" 
+              class="text-lime-300 hover:text-lime-500"
               target="_blank"
             >
           <span class="sr-only">Facebook</span>
@@ -22,8 +22,8 @@
         </a>
   
         <a 
-          href="" 
-          class="text-gray-500 hover:text-gray-700"
+          href="https://www.instagram.com/angebakersocialmedia/" 
+          class="text-lime-300 hover:text-lime-500"
           target="_blank"
         >
           <span class="sr-only">Instagram</span>
@@ -40,8 +40,8 @@
         </a>
 
         <a
-          href=""
-          class="text-gray-500 hover:text-gray-700"
+          href="https://www.linkedin.com/in/angebakersocialmediamedia/"
+          class="text-lime-300 hover:text-lime-500"
           target="_blank"
           >
           <span class="sr-only">LinkedIn</span>
@@ -58,7 +58,7 @@
   
         <a
           href="mailto:"
-          class="text-gray-500 hover:text-gray-700"
+          class="text-lime-300 hover:text-lime-500"
           >
           <span class="sr-only">Email</span>
           <svg class="w-6 h-6" fill="currentColor">
@@ -68,10 +68,10 @@
           </svg>
         </a>
       </div>
-      <p class="mt-8 text-base text-center text-gray-700">
-        &copy; 2026 Dream Digital. All rights reserved.
+      <p class="mt-8 text-base text-center text-pink-300">
+        &copy; 2026 Ange Baker Social Media. All rights reserved.
         <a href="/Privacy-Policy.pdf" 
-        class="text-gray-900 font-medium hover:text-sky-700"
+        class="text-pink-500 font-medium hover:text-pink-300"
         target="_blank">
           Privacy Policy
         </a>
