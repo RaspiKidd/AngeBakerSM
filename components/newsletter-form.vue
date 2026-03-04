@@ -12,7 +12,7 @@
             No fluff. Just useful advice you can actually use.
       </p>
 
-      <form class="mt-4 w-full max-w-md lg:col-span-5 lg:pt-2" name="Newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <form class="mt-4 max-w-md lg:col-span-5 lg:pt-2" name="Newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
         <input type="hidden" name="form-name" value="Newsletter" />
         <div class="flex gap-x-4">
             <label for="name" class="sr-only">
