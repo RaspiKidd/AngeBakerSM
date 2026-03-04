@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   },
 
   nitro: {
-    //preset: 'static',
+    //preset: 'netlify',
     prerender: {
       routes: [
         '/contact',
@@ -23,7 +23,7 @@ export default defineNuxtConfig({
       ]
     }
   },
-  ssr: false,
+  ssr: true,
 
   modules: [
     '@nuxtjs/tailwindcss', 
