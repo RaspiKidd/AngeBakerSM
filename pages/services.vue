@@ -10,30 +10,35 @@
           From Light Touch to Full management
         </h3>
       </div>
-      <div class="isolate mx-auto mt-16 grid max-w-md grid-cols-1 gap-y-8 sm:mt-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-        <div v-for="(tier, tierIdx) in tiers" :key="tier.id" :class="[tier.mostPopular ? 'lg:z-10 lg:rounded-b-none' : 'lg:mt-8', tierIdx === 0 ? '-mr-px lg:rounded-r-none' : '', tierIdx === tiers.length - 1 ? '-ml-px lg:rounded-l-none' : '', 'flex flex-col justify-between rounded-3xl bg-white p-8 inset-ring inset-ring-gray-200 xl:p-10']">
+      <div class="isolate mx-auto mt-10 grid max-w-md grid-cols-1 gap-8 sm:mt-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+        <div v-for="(tier, tierIdx) in tiers" :key="tier.id" :class="[tier.mostPopular ? 'lg:z-10 rounded-3xl' : 'lg:mt-8', tierIdx === 0 ? '-mr-px rounded-3xl' : '', tierIdx === tiers.length - 1 ? '-ml-px rounded-3xl' : '', 'flex flex-col justify-between rounded-3xl bg-sky-900 p-8 inset-ring inset-ring-gray-200 xl:p-10']">
           <div>
             <div class="flex items-center justify-between gap-x-4">
-              <h3 :id="tier.id" :class="[tier.mostPopular ? 'text-indigo-600' : 'text-gray-900', 'text-lg/8 font-semibold']">{{ tier.name }}</h3>
+              <h3 :id="tier.id" :class="[tier.mostPopular ? 'text-indigo-600' : 'text-lime-300', 'text-lg/8 font-bold']">{{ tier.name }}</h3>
               <p v-if="tier.mostPopular" class="rounded-full bg-indigo-600/10 px-2.5 py-1 text-xs/5 font-semibold text-indigo-600">Most popular</p>
             </div>
-            <p class="mt-4 text-sm/6 text-gray-600">{{ tier.description }}</p>
+            <p class="mt-4 text-sm/8 text-white">{{ tier.description }}</p>
             <p class="mt-6 flex items-baseline gap-x-1">
-              <span class="text-4xl font-semibold tracking-tight text-gray-900">{{ tier.priceMonthly }}</span>
-              <span class="text-sm/6 font-semibold text-gray-600">/month</span>
+              <span class="text-4xl font-semibold tracking-tight text-white">{{ tier.priceMonthly }}</span>
+              <span class="text-sm/6 font-semibold text-pink-500">/month</span>
             </p>
-            <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600">
+            <ul role="list" class="mt-8 space-y-3 text-sm/6 text-white">
               <li v-for="feature in tier.features" :key="feature" class="flex gap-x-3">
-                <CheckIcon class="h-6 w-5 flex-none text-indigo-600" aria-hidden="true" />
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#f44486" class="size-6">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                  </svg>
                 {{ feature }}
               </li>
             </ul>
           </div>
-          <a :href="tier.href" :aria-describedby="tier.id" :class="[tier.mostPopular ? 'bg-indigo-600 text-white shadow-xs hover:bg-indigo-500' : 'text-indigo-600 inset-ring inset-ring-indigo-200 hover:inset-ring-indigo-300', 'mt-8 block rounded-md px-3 py-2 text-center text-sm/6 font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600']">Buy plan</a>
+          <NuxtLink :to="`/${tier.id}`" :aria-describedby="`tier-${tier.id}`" class="mt-6 block w-full rounded-md px-3 py-2 text-center text-sm/12 font-bold text-lime-300 ring-1 ring-pink-200 ring-inset bg-pink-500">
+            Buy a Plan
+          </NuxtLink>
         </div>
       </div>
     </div>
   </div>
+  <newsletter-form />
   <Footer />
 </template>
 <script setup>

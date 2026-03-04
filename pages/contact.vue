@@ -6,6 +6,7 @@
       <p class="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat.</p>
     </div>
   </div>
+  <newsletter-form />
   <Footer />
 </template>
 

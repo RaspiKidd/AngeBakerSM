@@ -63,7 +63,7 @@
                   </div>
                 </div>-->
                 <div class="-mr-2">
-                  <button type="button" @click="isOpen = !isOpen" class="bg-sky-200 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                  <button type="button" @click="isOpen = !isOpen" class="bg-pink-500 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                     <span class="sr-only">Open menu</span>
                     <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -79,7 +79,7 @@
                     leave-to-class="opacity-0 scale-95"
                   >
                     <div v-show="isOpen" class="origin-top-right absolute right-0 mt-2 w-56 rounded-md shadow-lg">
-                      <div class="rounded-md bg-gray-200 shadow-xs">
+                      <div class="rounded-md bg-sky-900 shadow-xs">
                         <div class="mt-6">
                           <nav class="grid gap-y-8">
                             <NuxtLink to="/services" class="text-base font-medium text-lime-500 hover:text-lime-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">

@@ -13,7 +13,7 @@
                 Social Media Consultant for Small Business Owners
               </h1>
               <h3 class="text-2xl font-semibold tracking-tight text-white sm:text-3xl">
-                Social Media Consultant for Small Business Owners
+                Helping you tell your story, engage your audience and grow your business
               </h3>
               <p class="mt-8 text-lg font-semibold text-pretty text-white sm:text-xl/8">
                 I help small business owners and marketing consultants simplify their social media strategy, stay 
@@ -36,7 +36,7 @@
                       stroke-width="2" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-lime-300">
                       <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                     </svg>
-                  Inconsistent posting
+                  Struggling to stay consistent
                 </dt>
               </div>
               <div class="relative ml-8 pl-9 text-lg">
@@ -45,7 +45,7 @@
                     stroke-width="2" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-lime-300">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                   </svg>
-                  Confusing algorithm updates
+                  Confused by constant algorithm changes
                 </dt>
               </div>
               <div class="relative ml-8 pl-9 text-lg">
@@ -54,7 +54,7 @@
                     stroke-width="2" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-lime-300">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                   </svg>
-                  Low engagement
+                  Not sure where to start
                 </dt>
               </div>
               <div class="relative ml-8 pl-9 text-lg">
@@ -63,7 +63,7 @@
                     stroke-width="2" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-lime-300">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                   </svg>
-                  Lack of time
+                  Finding it hard to stand out
                 </dt>
               </div>
               <div class="relative ml-8 pl-9 text-lg">
@@ -72,10 +72,24 @@
                     stroke-width="2" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-lime-300">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                   </svg>
-                  Not knowing where to start
+                  Lacking confidence in your content
                 </dt>
               </div>
             </dl>
+            <p class="mt-4 text-lg font-medium text-pretty text-white sm:text-xl/8">
+              Social media shouldn’t feel overwhelming. It should feel manageable and aligned with your business.
+            </p>
+            <h2 class="mt-4 text-3xl font-semibold tracking-tight text-sky-900 sm:text-5xl">
+                How I Help
+            </h2>
+            <p class="mt-4 text-lg font-medium text-pretty text-white sm:text-xl/8">
+              I help small business owners and marketing consultants simplify social media so it becomes stress-
+              free, strategic and effective.
+            </p>
+            <p class="mt-4 text-lg font-medium text-pretty text-white sm:text-xl/8">
+              Whether you need full management, mentoring, brand identity support or a strategic audit, there’s a 
+              service designed around you.
+            </p>
             <!-- CTA -->
             <div class="bg-red-200 mt-4">
               <div class="py-6 sm:py-8 lg:px-4">
@@ -102,6 +116,7 @@
       </div>
     </div>
   </div>
+  <newsletter-form />
   <Footer />
 </template>
 
