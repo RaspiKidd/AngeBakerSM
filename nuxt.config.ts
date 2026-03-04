@@ -13,7 +13,15 @@ export default defineNuxtConfig({
   },
 
   nitro: {
-    preset: 'static'
+    preset: 'static',
+    prerender: {
+      routes: [
+        '/contact',
+        '/',
+        '/about',
+        '/services',
+      ]
+    }
   },
   ssr: false,
 
