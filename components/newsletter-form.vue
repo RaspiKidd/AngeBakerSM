@@ -2,7 +2,7 @@
   <div class="bg-red-200 py-16 sm:py-24 lg:py-32">
     <div class=" mx-auto max-w-7xl sm:px-6 lg:px-8">
         <h2 class="max-w-xl text-3xl font-semibold tracking-tight text-balance text-pink-500 sm:text-4xl lg:col-span-7">
-            Want social media to feel simpler?
+            WANT SOCIAL MEDIA TO FEEL SIMPLER?
         </h2>
         <p class="mt-4 max-w-xl tracking-tight text-balance text-lg font-medium text-pretty text-gray-700 sm:text-xl/8 lg:col-span-7">
             Get practical tips, content ideas and strategy insights delivered straight 
@@ -12,7 +12,7 @@
             No fluff. Just useful advice you can actually use.
       </p>
 
-      <form class="mt-4 max-w-md lg:col-span-5 lg:pt-2" name="Newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <form class="mt-4 w-full max-w-md lg:col-span-5 lg:pt-2" name="Newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
         <input type="hidden" name="form-name" value="Newsletter" />
         <div class="flex gap-x-4">
             <label for="name" class="sr-only">

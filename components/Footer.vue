@@ -57,7 +57,7 @@
         </a>
   
         <a
-          href="mailto:"
+          href="mailto:hello@angebakersmc.co.uk"
           class="text-lime-300 hover:text-lime-500"
           >
           <span class="sr-only">Email</span>
