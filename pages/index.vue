@@ -36,9 +36,6 @@
               <div class="space-y-2 py-6">
                 <a v-for="item in navigation" :key="item.name" :href="item.href" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-white hover:bg-pink-200">{{ item.name }}</a>
               </div>
-              <div class="py-6">
-                <a href="https://calendly.com/angebakersmc/30min" target="_blank" class="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold text-gray-900 hover:bg-pink-200">Book a Call</a>
-              </div>
             </div>
           </div>
         </DialogPanel>
