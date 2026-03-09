@@ -4,9 +4,11 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-4xl text-center">
         <h1 class="text-4xl font-semibold tracking-tight text-pink-500 sm:text-6xl">
-          Clear Brands. Confident Content. Simpler Social Media.
+          Clear Brands <br>
+          Confident Content <br>
+          Simpler Social Media
         </h1>
-        <h3 class="text-2xl font-semibold tracking-tight text-lime-500 sm:text-3xl">
+        <h3 class="mt-4 text-1xl font-semibold tracking-tight text-lime-500 sm:text-2xl">
           Helping small businesses build strong brands, plan purposeful content and create simple systems that 
           make marketing easier to manage.
         </h3>
@@ -55,17 +57,17 @@ const tiers = [
       'Colour palettes and font suites', 
       'Full brand suite development', 
       'Canva template packs', 
-      'Design for print, including flyers, business cards and banners'],
+      'Design for print'],
     mostPopular: false,
   },
   {
-    name: 'Social Media Strategy & Support',
+    name: 'Social Media Management Strategy & Support',
     id: 'social-media-strategy',
     href: '#',
     //priceMonthly: '$49',
     description: 'Practical strategy and hands-on support to help your content feel purposeful and consistent.',
     features: [
-      'Light Touch, Hybrid (bespoke) or Full social media support',
+      'Light Touch, Hybrid or Full Management',
       'Content planning sessions',
       'Campaign or launch support',
       'Power Hour strategy sessions',
