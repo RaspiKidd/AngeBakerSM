@@ -166,8 +166,8 @@ import { ref } from 'vue'
 import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
 
 const navigation = [
-  { name: 'Services', href: '/services' },
   { name: 'About', href: '/about' },
+  { name: 'Services', href: '/services' },
   { name: 'Contact Us', href: '/contact' },
   { name: 'Book a Call', href: 'https://calendly.com/angebakersmc/30min', target: '_blank', },
 ]

@@ -17,12 +17,12 @@
           <!-- Desktop Menu -->
           <nav class="hidden md:flex space-x-10">
 
-            <NuxtLink to="/services" class="text-base font-medium text-lime-300 hover:text-lime-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
-              Services
-            </NuxtLink>
-
             <NuxtLink to="/about" class="text-base font-medium text-lime-300 hover:text-lime-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
               About
+            </NuxtLink>
+
+            <NuxtLink to="/services" class="text-base font-medium text-lime-300 hover:text-lime-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+              Services
             </NuxtLink>
 
             <NuxtLink to="/contact" class="text-base font-medium text-lime-300 hover:text-lime-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
@@ -82,12 +82,13 @@
                       <div class="rounded-md bg-sky-900 shadow-xs">
                         <div class="mt-6">
                           <nav class="grid gap-y-8">
-                            <NuxtLink to="/services" class="text-base font-medium text-lime-500 hover:text-lime-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
-                              Services
-                            </NuxtLink>
 
                             <NuxtLink to="/about" class="text-base font-medium text-lime-500 hover:text-lime-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
                               About
+                            </NuxtLink>
+
+                            <NuxtLink to="/services" class="text-base font-medium text-lime-500 hover:text-lime-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
+                              Services
                             </NuxtLink>
 
                             <NuxtLink to="/contact" class="text-base font-medium text-lime-500 hover:text-lime-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
