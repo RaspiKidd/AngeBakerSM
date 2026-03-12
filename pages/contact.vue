@@ -98,6 +98,7 @@
       </form>
     </div>
   </div>
+  <testimonials />
   <newsletter-form />
   <Footer />
 </template>

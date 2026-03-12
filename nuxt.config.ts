@@ -27,6 +27,11 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxtjs/tailwindcss', 
-    '@nuxt/image',
-  ]
+    '@nuxt/image', 
+    '@nuxtjs/sitemap'
+  ],
+  site: {
+    url: 'https://angebakersmc.co.uk',
+    name: 'Ange Baker Social Media Consultant'
+  }
 })
