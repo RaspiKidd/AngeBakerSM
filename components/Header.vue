@@ -26,7 +26,7 @@
             </NuxtLink>
 
             <NuxtLink to="/contact" class="text-base font-medium text-lime-300 hover:text-lime-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
-              Contact Us
+              Contact Me
             </NuxtLink>
           </nav>
           <!-- BOOK A CALL BUTTON -->
@@ -92,7 +92,7 @@
                             </NuxtLink>
 
                             <NuxtLink to="/contact" class="text-base font-medium text-lime-500 hover:text-lime-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
-                              Contact Us
+                              Contact Me
                             </NuxtLink>
                           </nav>
                         </div>
