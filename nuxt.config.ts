@@ -37,6 +37,15 @@ export default defineNuxtConfig({
     name: 'Ange Baker Social Media Consultant'
   },
 
+  sitemap: {
+     urls: [
+    '/',
+    '/about',
+    '/services',
+    '/contact'
+  ]
+  },
+
     gtag: {
     id: 'G-F0EHJRZTSE'
   }
