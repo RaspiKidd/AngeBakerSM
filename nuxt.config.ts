@@ -28,10 +28,16 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss', 
     '@nuxt/image', 
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap', 
+    'nuxt-gtag'
   ],
+  
   site: {
     url: 'https://angebakersmc.co.uk',
     name: 'Ange Baker Social Media Consultant'
+  },
+
+    gtag: {
+    id: 'G-F0EHJRZTSE'
   }
 })
