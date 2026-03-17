@@ -28,7 +28,7 @@
       </p>
 
       <h3 class="mt-8 text-2xl font-semibold tracking-tight text-gray-700 sm:text-3xl">
-        Who I Work With
+        WHO DO I WORK WITH
       </h3>
       <div class="mt-10 max-w-2xl text-gray-600">
         <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 lg:max-w-none">
@@ -58,7 +58,7 @@
           </div>
         </dl>
         <h3 class="mt-8 text-2xl font-semibold tracking-tight text-gray-700 sm:text-3xl">
-          My Approach
+          MY APPROACH
         </h3>
         <div class="mt-10 max-w-2xl text-gray-600">
           <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 lg:max-w-none">
@@ -68,7 +68,7 @@
                   stroke-width="1.5" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-pink-500">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                 </svg>
-                Clear strategy
+                CLEAR STRATEGY
               </dt>
             </div>
             <div class="relative ml-8 pl-9 text-lg">
@@ -77,7 +77,7 @@
                   stroke-width="1.5" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-pink-500">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                 </svg>
-                Strong brand identity
+                STRONG BRAND IDENTITY
               </dt>
             </div>
             <div class="relative ml-8 pl-9 text-lg">
@@ -86,7 +86,7 @@
                   stroke-width="1.5" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-pink-500">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                 </svg>
-                Consistent content
+                CONSISTENT CONTENT
               </dt>
             </div>
             <div class="relative ml-8 pl-9 text-lg">
@@ -95,15 +95,15 @@
                   stroke-width="1.5" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-pink-500">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
               </svg>
-                Measurable performance
+                MEASURABLE PERFORMANCE
               </dt>
             </div>
           </dl>
         <p class="mt-8 text-md text-pretty font-medium text-gray-700 sm:text-lg/8">
-          I believe branding should feel like a cup of coffee and a chat, not a corporate boardroom.
+          I believe branding should feel like a cuppa and a chat, not a corporate boardroom.
         </p>
         <p class="mt-8 text-md text-pretty font-medium text-gray-700 sm:text-lg/8">
-          Clear strategy. Strong visuals. Confident messaging. All tailored to your business.
+          Clear strategy. Strong visuals. Confident messaging. <br>All tailored to your business.
         </p>
       </div>
     </div>
@@ -120,7 +120,7 @@
       </p>
 
       <h3 class="mt-8 text-2xl font-semibold tracking-tight text-gray-700 sm:text-3xl">
-        Who I Work With
+        WHO I WORK WITH
       </h3>
       <div class="mt-10 max-w-2xl text-gray-600">
         <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 lg:max-w-none">
@@ -129,7 +129,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-8 absolute left-1 top-1 h-6 w-6 text-pink-500">
                 <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" /> 
               </svg>
-              Office teams who enjoy a boost in workplace morale
+              Anyone who enjoys a good boost in workplace morale
             </dt>
           </div>
           <div class="relative ml-8 pl-9 text-lg">
@@ -152,7 +152,7 @@
         <br>
         <br>
         <h3 class="mt-8 text-2xl font-semibold tracking-tight text-gray-700 sm:text-3xl">
-          My Approach
+          MY APPROACH
         </h3>
         <div class="mt-10 max-w-2xl text-gray-600">
           <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 lg:max-w-none">
@@ -162,7 +162,7 @@
                   stroke-width="1.5" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-pink-500">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                 </svg>
-                Leading lunchtime walks around the North Inch
+                Leading lunchtime walks around the big grass (North Inch)
               </dt>
             </div>
             <div class="relative ml-8 pl-9 text-lg">
@@ -180,7 +180,7 @@
                   stroke-width="1.5" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-pink-500">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
                 </svg>
-                Boosting morale with light-hearted office banter
+                Boosting morale with light hearted 'office bants'
               </dt>
             </div>
             <div class="relative ml-8 pl-9 text-lg">
@@ -189,13 +189,13 @@
                   stroke-width="1.5" stroke="currentColor" class="absolute left-1 top-1 h-6 w-5 text-pink-500">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
               </svg>
-                Strategic toy placement (usually my mini pink sparkly duck)
+                Office hide & seek (usually with my mini pink sparkly duck)!
               </dt>
             </div>
           </dl>
         </div>
       <p class="mt-8 text-md text-pretty font-medium text-gray-700 sm:text-lg/8">
-        In summary, I’m an all round g'boy. 🐾
+        In summary, I’m an all round g'boy!
       </p>
      
     </div>

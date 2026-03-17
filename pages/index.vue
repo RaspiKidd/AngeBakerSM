@@ -49,10 +49,10 @@
 
           <div class="relative px-6 py-12 sm:py-10 lg:px-8 lg:py-16 lg:pr-0">
             <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
-              <h1 class="text-4xl font-semibold tracking-tight text-sky-900 sm:text-6xl">
-                Social Media Consultant for Small Business Owners
+              <h1 class="text-3xl font-semibold tracking-tight text-sky-900 sm:text-5xl">
+                Branding & Social Media Consultant for Small Businesses
               </h1>
-              <h3 class="text-2xl font-semibold tracking-tight text-white sm:text-3xl">
+              <h3 class="mt-4 text-2xl font-semibold tracking-tight text-white sm:text-3xl">
                 Helping you tell your story, engage your audience and grow your business
               </h3>
               <p class="mt-8 text-lg font-semibold text-pretty text-white sm:text-xl/8">
